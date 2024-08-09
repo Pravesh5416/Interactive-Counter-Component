@@ -1,11 +1,11 @@
-import Header from "./components/header";
-import Displaycard from "./components/DisplayCard";
+// import Header from "./components/header";
+// import Displaycard from "./components/DisplayCard";
+import Counter from './components/Counter';
 
 function App() {
   return (
     <div>
-      <Header />
-      <Displaycard />
+      <Counter />
     </div>
   );
 }
